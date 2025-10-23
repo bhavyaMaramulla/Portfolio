@@ -33,7 +33,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-  strings : ["Midhilesh Chinta", "the Creator of Gamesome", "the Creator of Squad Tracker", " a Web Developer"," a Youtuber"],
+  strings : ["Bhavya Maramulla","Student"],
   loop : true,
   typeSpeed : 100,
   backSpeed : 80,
